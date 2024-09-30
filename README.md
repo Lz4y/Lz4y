@@ -1,4 +1,4 @@
-Hi 👋 My name is Lzay
+Hi 👋 My name is Lza
 =====================
 
 * 🌍  I'm based in Turkey
