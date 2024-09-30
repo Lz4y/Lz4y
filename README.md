@@ -2,7 +2,6 @@ Hi 👋 My name is Lzay
 =====================
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [lzaypersonal@gmail.com](mailto:lzaypersonal@gmail.com)
 * 🧠  I'm learning ReactJS
 * ⚡  Young Turkish Entrepreneur
 
