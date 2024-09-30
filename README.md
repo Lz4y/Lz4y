@@ -3,7 +3,6 @@ Hi 👋 My name is Lzay
 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning ReactJS
-* ⚡  Young Turkish Entrepreneur
 
 <a href="https://www.github.com/Lz4y" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Lz4y?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/itslzay" target="_blank" rel="noreferrer"><img
