@@ -5,10 +5,7 @@ Hi 👋 My name is Lzay
 * 🧠  I'm learning ReactJS
 
 <a href="https://www.github.com/Lz4y" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Lz4y?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=ffffff&labelColor=000000&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/Lz4y?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
 ### Skills
 
