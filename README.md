@@ -2,7 +2,6 @@ Hi 👋 My name is Lzay
 =====================
 
 * 🌍  I'm based in Turkey
-* ⚡  I'm mostly working on E-Commerce, Cryptocurrencies
 
 <a href="https://www.github.com/Lz4y" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Lz4y?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a><a href="https://www.x.com/itslzay" target="_blank" rel="noreferrer"><img
