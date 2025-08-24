@@ -17,7 +17,6 @@ LZAY
 <a href="https://www.github.com/Lz4y" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Lz4y?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.twitch.tv/lzay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/lzay?logo=twitchsx&style=for-the-badge&color=ffffff&labelColor=000000&label=TWITCH+STATUS" /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
