@@ -20,6 +20,6 @@ LZAY
 src="https://img.shields.io/github/followers/Lz4y?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.twitch.tv/lzay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/lzay?logo=twitchsx&style=for-the-badge&color=ffffff&labelColor=000000&label=TWITCH+STATUS" /></a>
 
-<b>My GitHub Stats</b>
+### Stats
 
 <a href="http://www.github.com/Lz4y"><img src="https://github-readme-stats.vercel.app/api?username=Lz4y&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Lz4y's GitHub stats" /></a>
